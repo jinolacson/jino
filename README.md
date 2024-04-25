@@ -1,5 +1,5 @@
 ## Hi :wave:
 
-### Whoami
+### Whoami 👋 
 
-Hello! 👋 I'm a proactive developer, with more than ten years of expertise in full-stack and software development, I wield my expertise in prevalent languages such as JavaScript, Python, PHP, Java, Solidity, and cloud computing platform such as Amazon Web Services. I assist companies in achieving their objectives by crafting a diverse range of web and software applications. Plus, I'm not content with just that – I consistently advance my skills, staying abreast of the newest tech trends! 🚀
+With over a decade of experience, I specialize in full-stack development using JavaScript, Python, PHP, Java, Solidity, and AWS. I excel in crafting diverse web and software applications, from responsive interfaces to scalable backend systems. My proactive approach, coupled with a collaborative spirit, ensures seamless project delivery. Let's collaborate to turn your ideas into reality! 🚀
